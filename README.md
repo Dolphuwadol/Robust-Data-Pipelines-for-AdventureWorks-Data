@@ -4,7 +4,7 @@ An end-to-end data engineering pipeline with Medallion architecture.
 ## Medallion architecture
 ![image](https://github.com/Dolphuwadol/Robust-Data-Pipelines-for-AdventureWorks-Data/assets/121854744/f079f6de-3eec-4bd4-98c7-f7ad64c0a9e6)
 
-
+## Overview
 This project leverages AdventureWorks data, initiating the transfer of sales-related information from the database to the Bronze layer in Azure Data Factory and subsequently loading it into Databricks.
 
 Silver layer 
