@@ -9,8 +9,7 @@ Gold layer
 is responsible for creating Data Marts, transforming and joining snapshots into three entities (denormalize).
 
 The entities include
-Fact - Sales: sales order details  
-              sales order headers
+Fact table - Sales: sales order details and sales order headers
 
 Dimensions
 Customer: address, customer address, and customer entities.
