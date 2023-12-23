@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-Welcome to your new dbt project!
-
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
-
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
-=======
 # Robust-Data-Pipelines-for-AdventureWorks-data
 An end-to-end data engineering pipeline with Medallion architecture. 
 
@@ -50,4 +33,3 @@ Dimensions
 ![dbt-dag](https://github.com/Dolphuwadol/Robust-Data-Pipelines-for-AdventureWorks-Data/assets/121854744/fbfa039b-db4a-4e6b-ac0e-08992dfe6bfd)
 ![dbt-dag (1)](https://github.com/Dolphuwadol/Robust-Data-Pipelines-for-AdventureWorks-Data/assets/121854744/b8b6f074-274b-4051-a167-455dcac89f59)
 ![dbt-dag (2)](https://github.com/Dolphuwadol/Robust-Data-Pipelines-for-AdventureWorks-Data/assets/121854744/543f1635-acf7-4120-aca1-23a7288f17f4)
->>>>>>> 68018914a6c631de755befe9c4559e8b40ebc036
